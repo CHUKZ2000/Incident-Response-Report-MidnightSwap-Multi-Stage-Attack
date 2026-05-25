@@ -134,15 +134,3 @@ The investigation confirms a **highly coordinated multi-stage attack** combining
 
 ---
 
-## Repository Contents
-
-- `INCIDENT-RESPONSE-REPORT.md` → This file (full report)
-- `/images/` → All Splunk dashboard screenshots from the original PDF
-- `/logs/` → (Optional) Raw log samples (if available)
-- `/recommendations/` → Detailed remediation playbook
-
----
-
-**Prepared by:** Obu Chukwuemeka Godwin  
-**For:** Reyts Fintech Security Team  
-
