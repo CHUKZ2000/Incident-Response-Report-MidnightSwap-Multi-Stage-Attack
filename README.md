@@ -23,7 +23,7 @@ The attacker successfully compromised user credentials, gained unauthorized acce
 
 Users were successfully tricked into revealing credentials.
 
-![Phishing Campaign - Splunk Dashboard](Screenshot%2026-03-30%183614.png)
+![Phishing Campaign - Splunk Dashboard](Screenshot 2026-03-30 183614.png)
 
 ### Account Takeover
 - Over **7,500 login events** observed
