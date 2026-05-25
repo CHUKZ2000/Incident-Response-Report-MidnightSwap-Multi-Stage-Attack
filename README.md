@@ -23,7 +23,7 @@ The attacker successfully compromised user credentials, gained unauthorized acce
 
 Users were successfully tricked into revealing credentials.
 
-![Phishing Campaign - Splunk Dashboard](https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack/blob/main/Screenshot%202026-03-30%20183343.png)
+![Phishing Campaign - Splunk Dashboard](https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack/blob/main/Screenshot%202026-03-30%20183614.png)
 
 ### Account Takeover
 - Over **7,500 login events** observed
