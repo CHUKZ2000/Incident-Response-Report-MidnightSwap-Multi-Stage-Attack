@@ -34,7 +34,7 @@ Users were successfully tricked into revealing credentials.
 
 Indicates compromised accounts and automated attack behaviour.
 
-![Account Takeover - Splunk Logs](images/screenshot-account-takeover.png)
+![Account Takeover - Splunk Logs](Screenshot%202026-03-30%20183343.png)
 
 ### MidnightSwap Attack
 - Significant abnormal activity observed between **00:00 and 04:00**, consistent with the MidnightSwap attack pattern.
