@@ -25,6 +25,8 @@ Users were successfully tricked into revealing credentials.
 
 ![Phishing Campaign - Splunk Dashboard](https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack/blob/main/Screenshot%202026-03-30%20183614.png)
 
+![Account Takeover - Splunk Logs](Screenshot%202026-03-30%20183343.png)
+
 ### Account Takeover
 - Over **7,500 login events** observed
 - High activity from suspicious IPs:
@@ -34,13 +36,13 @@ Users were successfully tricked into revealing credentials.
 
 Indicates compromised accounts and automated attack behaviour.
 
-![Account Takeover - Splunk Logs](Screenshot%202026-03-30%20183343.png)
+![Account Takeover - Splunk Logs]([Screenshot%202026-03-30%20183343.png](https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack/blob/main/Screenshot%202026-03-30%20211250.png))
 
 ### MidnightSwap Attack
 - Significant abnormal activity observed between **00:00 and 04:00**, consistent with the MidnightSwap attack pattern.
 - Deliberate exploitation of low-monitoring hours.
 
-![MidnightSwap Activity - Splunk](https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack/blob/main/Screenshot%202026-03-30%20211250.png)
+![MidnightSwap Activity - Splunk](https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack/blob/main/Screenshot%202026-03-30%20193510.png)
 
 ### Advanced Intrusion Activity
 Detailed log analysis revealed advanced attacker behavior beyond initial compromise:
@@ -52,7 +54,7 @@ Detailed log analysis revealed advanced attacker behavior beyond initial comprom
 
 These actions demonstrate the attacker successfully transitioned from initial access to **deep system-level control**.
 
-![Advanced Intrusion - Splunk](images/screenshot-advanced-intrusion.png)
+![Advanced Intrusion - Splunk](https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack/blob/main/Screenshot%202026-03-30%20194422.png)
 
 ### Ransomware Execution
 Analysis confirmed a fully executed ransomware attack with the following indicators:
@@ -64,7 +66,13 @@ Analysis confirmed a fully executed ransomware attack with the following indicat
 
 The sequence and volume of events demonstrate a **complete ransomware lifecycle**.
 
-![Ransomware Logs - Splunk](images/screenshot-ransomware.png)
+![Ransomware Logs - Splunk](https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack/blob/main/Screenshot%202026-03-30%20201059.png)
+
+![Ransomware Logs - Splunk](https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack/blob/main/Screenshot%202026-03-30%20203404.png)
+
+![Ransomware Logs - Splunk](https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack/blob/main/Screenshot%202026-03-30%20204016.png)
+
+![Ransomware Logs - Splunk](https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack/blob/main/Screenshot%202026-03-30%20204752.png)
 
 ---
 
