@@ -40,7 +40,7 @@ Indicates compromised accounts and automated attack behaviour.
 - Significant abnormal activity observed between **00:00 and 04:00**, consistent with the MidnightSwap attack pattern.
 - Deliberate exploitation of low-monitoring hours.
 
-![MidnightSwap Activity - Splunk](images/screenshot-midnightswap.png)
+![MidnightSwap Activity - Splunk](https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack/blob/main/Screenshot%202026-03-30%20211250.png)
 
 ### Advanced Intrusion Activity
 Detailed log analysis revealed advanced attacker behavior beyond initial compromise:
