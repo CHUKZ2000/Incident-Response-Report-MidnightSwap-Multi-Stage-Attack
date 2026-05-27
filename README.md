@@ -13,6 +13,8 @@ A comprehensive investigation of authentication and system logs revealed a **mul
 
 The attacker successfully compromised user credentials, gained unauthorized access, escalated privileges, and executed ransomware, causing significant security impact.
 
+[Evidence auth log](https://drive.google.com/file/d/14hPmB0Pkg0oWJDNbxcls7PAf_nGEhTzu/view?usp=drive_link)
+
 ---
 
 ## Key Findings
